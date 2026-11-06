@@ -12,10 +12,10 @@ Writing
 
 ### Expected Behavior
 
-- \NO slander on SHEETZ, or any of its subsidiaries. 
-- \Be respectful and no bullying, unless its justified. 
-- \NO false information is to be added to our wiki
-- \[Expected behavior 4\]
+- NO slander on SHEETZ, or any of its subsidiaries. 
+- Be respectful and no bullying, unless its justified. 
+- NO false information is to be added to our wiki
+- 
 
 ### Unacceptable Behavior
 

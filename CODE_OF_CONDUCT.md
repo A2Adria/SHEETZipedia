@@ -6,9 +6,9 @@ Writing
 
 ## 1\. Our Pledge
 
-\Here at SHEETZipedia, we believe in a community that is both fun, whilst still following a set of rules made purely for the safety of our users. By using out repository, you automatically agree to adhere to these rules so we can ensure a safe and fun community. Ignoring this code of conduct will result in... well, put simply: consequences./
+\Here at SHEETZipedia, we believe in a community that is both fun, whilst still following a set of rules made purely for the safety of our users. By using out repository, you automatically agree to adhere to these rules so we can ensure a safe and fun community. Ignoring this code of conduct will result in... well, put simply: consequences. 
 
-## 2\. Our Standards
+## 2. Our Standards
 
 ### Expected Behavior
 
